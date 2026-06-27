@@ -25,8 +25,8 @@
 class Tahammul:
     name        = "Md Tahammul Noor"
     alias       = "thanos07"
-    degree      = "M.Tech CSE — NIT Jalandhar (2024–2026) · CGPA 7.87"
-    prev        = "B.Tech IT — Muzaffarpur Institute of Technology · CGPA 8.07"
+    degree      = "M.Tech CSE — NIT Jalandhar (2024–2026) "
+    prev        = "B.Tech IT — Muzaffarpur Institute of Technology "
     focus       = ["Agentic AI & LLM Systems", "RAG Pipelines", "Backend Dev", "Computer Vision"]
     published   = "IEEE AIEI 2026 — Geospatial Intelligence + Deep Learning for Solar Energy Planning"
     dsa         = "350+ problems solved · 10 LeetCode badges"

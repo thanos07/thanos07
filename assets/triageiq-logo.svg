@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <style>
+      .word { font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+      .title { font-size: 108px; font-weight: 700; letter-spacing: -2px; }
+      .tag { font-size: 28px; font-weight: 600; letter-spacing: 8px; }
+    </style>
+    <filter id="shadow" x="0" y="0" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#2B211C" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="shieldClip">
+      <path d="M180 44C151 67 112 79 72 82V158C72 247 129 303 180 322C231 303 288 247 288 158V82C248 79 209 67 180 44Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Icon -->
+  <g transform="translate(32 18)" filter="url(#shadow)">
+    <!-- Shield base -->
+    <path d="M180 44C151 67 112 79 72 82V158C72 247 129 303 180 322C231 303 288 247 288 158V82C248 79 209 67 180 44Z" fill="#FFFDF8"/>
+
+    <!-- Shield segments -->
+    <g clip-path="url(#shieldClip)">
+      <path d="M72 82V168L180 158V44C151 67 112 79 72 82Z" fill="#2B211C"/>
+      <path d="M180 44V158L288 148V82C248 79 209 67 180 44Z" fill="#C89B6D"/>
+      <path d="M72 168L180 158L288 148L180 322C129 303 72 247 72 168Z" fill="#4A372E"/>
+      <path d="M180 158L288 148L180 322L288 228V322H142L180 158Z" fill="#F4EBDD" opacity="0.98"/>
+    </g>
+
+    <!-- Pulse / check path -->
+    <path d="M91 151H124L142 100L162 184L185 126L206 166L231 139L262 108"
+          stroke="#FFFDF8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- route nodes -->
+    <path d="M102 194C125 212 153 220 182 220" stroke="#D7B287" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="108" cy="193" r="12" fill="#FFFDF8" stroke="#D7B287" stroke-width="4"/>
+    <circle cx="180" cy="220" r="12" fill="#FFFDF8" stroke="#D7B287" stroke-width="4"/>
+
+    <!-- Shield outline -->
+    <path d="M180 44C151 67 112 79 72 82V158C72 247 129 303 180 322C231 303 288 247 288 158V82C248 79 209 67 180 44Z" stroke="#2B211C" stroke-opacity="0.18" stroke-width="3"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(365 72)">
+    <text class="word title" x="0" y="112" fill="#C89B6D">Triage</text>
+    <text class="word title" x="365" y="112" fill="#2B211C">IQ</text>
+    <text class="word tag" x="3" y="186" fill="#A77545">INCIDENT WORKSPACE</text>
+  </g>
+</svg>

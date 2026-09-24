@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     width="512"
+     height="512"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">TN monogram</title>
+  <desc id="desc">Centered TN monogram with the green dot raised upward to sit better with the N and the full TN. group optically centered inside a rounded dark square.</desc>
+
+  <rect x="18" y="18" width="476" height="476" rx="108" fill="#111923"/>
+
+  <rect x="21" y="21" width="470" height="470" rx="105"
+        fill="none" stroke="#667C49" stroke-width="6"/>
+
+  <!-- T shifted slightly left -->
+  <path fill="#F5F3EE" d="
+    M78 154
+    H230
+    V206
+    H182
+    V360
+    H128
+    V206
+    H78
+    Z"/>
+
+  <!-- N shifted slightly left -->
+  <path fill="#F5F3EE" d="
+    M212 206
+    H266
+    L340 316
+    V206
+    H392
+    V360
+    H338
+    L264 250
+    V360
+    H212
+    Z"/>
+
+  <!-- Dot raised upward -->
+  <circle cx="413" cy="346" r="18" fill="#C7F36B"/>
+</svg>

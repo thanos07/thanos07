@@ -4,12 +4,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI+systems+end-to-end+%E2%80%94+not+just+notebooks;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Systems;IEEE+Published+%7C+Open+to+ML%2FAI+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=45&lines=Building+AI+systems+end-to-end+%E2%80%94+not+just+notebooks;3.5%2B+years+of+AI%2FML+experience;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Systems;IEEE+Published+%7C+Open+to+ML%2FAI+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdtnoor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-rosy-psi-74.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/mdtahammulnoor/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/profile/thanos7"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
@@ -25,6 +24,7 @@
 class Tahammul:
     name        = "Md Tahammul Noor"
     alias       = "thanos07"
+    experience  = "3.5+ years across AI, ML, and backend systems"
     degree      = "M.Tech CSE — NIT Jalandhar (2024–2026) "
     prev        = "B.Tech IT — Muzaffarpur Institute of Technology "
     focus       = ["Agentic AI & LLM Systems", "RAG Pipelines", "Backend Dev", "Computer Vision"]
@@ -57,61 +57,69 @@ class Tahammul:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 TriageIQ</h3>
-      <p>Agentic AI incident triage system — 4-agent pipeline (Severity → Root Cause → Runbook → Summary) with confidence scoring, full audit trail, SQLite persistence, and human-in-the-loop review.</p>
+      <img src="./assets/repopilot-logo.svg" alt="RepoPilot logo" height="42"/>
+      <h3>RepoPilot</h3>
+      <p>AI-assisted code changes with isolated verification and human-controlled GitHub publishing.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DeepSeek-1764E8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/E2B-242424?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
       </p>
-      <a href="https://github.com/thanos07/triageiq"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://triageiq.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+      <a href="https://github.com/thanos07/RepoPilot"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://repopilot-cyan.vercel.app/"><img src="https://img.shields.io/badge/Live%20Preview-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 medkit</h3>
-      <p>Browser-based OSCE clinical simulator — 18 specialty cases, Claude-driven patient personas, attending grader scoring against ESC/NICE/BTS/RCOG guidelines. Groq fallback keeps it always-on.</p>
+      <img src="./assets/triageiq-logo.svg" alt="TriageIQ logo" height="50"/>
+      <h3>TriageIQ — Django AI</h3>
+      <p>AI-assisted incident management with human-approved recovery, evidence, and audit trails.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/thanos07/medkit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://medkit-azure.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/thanos07/triageiq-django-ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://triageiq-seven.vercel.app/"><img src="https://img.shields.io/badge/Live%20Preview-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 ScholarSync</h3>
-      <p>RAG pipeline for Q&A over multi-document PDF datasets — chunking, ChromaDB vector indexing, semantic retrieval, and answer validation against source documents. Deployed on Streamlit Cloud.</p>
+      <img src="./assets/scholarsync-logo.png" alt="ScholarSync logo" width="180"/>
+      <h3>ScholarSync — Django</h3>
+      <p>Evidence-grounded AI research workspace for academic PDFs.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyMuPDF-425563?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BM25-7C3AED?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       </p>
-      <a href="https://github.com/thanos07/ScholarSync"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://x-scholarsync.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+      <a href="https://github.com/thanos07/ScholarSync-Django"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://scholarsync-ph9x.onrender.com/"><img src="https://img.shields.io/badge/Live%20Preview-000000?style=flat-square&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✈️ AeroReserve</h3>
-      <p>Full-stack airline reservation system — microservice architecture, live aircraft tracking via OpenSky API, Swagger API docs, and zero-config startup (in-memory fallback, no DB or API key needed).</p>
+      <img src="./assets/itr-compass-icon.svg" alt="ITR Compass logo" height="50"/>
+      <h3>ITR Compass</h3>
+      <p>Prepare, compare, and review income-tax workpapers with controlled AI assistance.</p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logoColor=111111"/>
       </p>
-      <a href="https://github.com/thanos07/AeroReserve"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/thanos07/itr-compass"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://itr-compass.vercel.app/"><img src="https://img.shields.io/badge/Live%20Preview-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏗️ Construction Site Safety</h3>
+      <p>Computer vision workflow for detecting site hazards with Florence-2, GroundingDINO, SAM2, YOLOv8, and ONNX.</p>
+      <a href="https://github.com/thanos07/construction-site-safety"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -119,45 +127,58 @@ class Tahammul:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI / GenAI / LLM**
 
-![Anthropic](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white)
+![DeepSeek API](https://img.shields.io/badge/DeepSeek%20API-1764E8?style=for-the-badge&logoColor=white)
+
+**Retrieval & Reliability**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-111111?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![LLM Evals](https://img.shields.io/badge/LLM%20Evals-7C3AED?style=for-the-badge&logoColor=white)
+![Guardrails](https://img.shields.io/badge/Guardrails-5856D6?style=for-the-badge&logoColor=white)
+![Schema Validation](https://img.shields.io/badge/Schema%20Validation-475569?style=for-the-badge&logoColor=white)
 
 **Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
 
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django DRF](https://img.shields.io/badge/Django%20DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-404040?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -192,9 +213,9 @@ class Tahammul:
 
 ## 🌱 Currently
 
-- 🔭 Wrapping up **medkit** — adding voice input & more OSCE cases
-- 📄 Exploring multi-agent orchestration patterns post-TriageIQ
-- 📬 **Open to ML/AI Engineer & Data Science roles** — reach me at [noorali99307@gmail.com](mailto:noorali99307@gmail.com)
+- 🔭 Building enterprise onboarding AI workflows that turn unstructured requests into validated data, with retrieval grounding and human review.
+- 🧪 Improving reliability through deterministic guardrails, schema validation, and regression tests.
+- 📬 **Open to AI/ML engineering roles** — reach me at [noorali99307@gmail.com](mailto:noorali99307@gmail.com)
 
 ---
 

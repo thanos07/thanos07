@@ -194,7 +194,7 @@ class Tahammul:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=thanos07&show_icons=true&bg_color=151D27&title_color=C7F36B&text_color=F5F3EE&icon_color=C7F36B&border_color=667C49&count_private=true" height="165" alt="GitHub activity statistics"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=thanos07&show_icons=true&hide_rank=true&bg_color=151D27&title_color=C7F36B&text_color=F5F3EE&icon_color=C7F36B&border_color=667C49&count_private=true" height="165" alt="GitHub activity statistics"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thanos07&layout=compact&bg_color=151D27&title_color=C7F36B&text_color=F5F3EE&border_color=667C49&langs_count=8" height="165" alt="Most used GitHub languages"/>
 </p>
 

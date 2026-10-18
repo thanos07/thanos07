@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/u/mdtahammulnoor/"><img src="https://img.shields.io/badge/LeetCode-1B2632?style=for-the-badge&logo=leetcode&logoColor=C7F36B" /></a>
   <a href="https://www.geeksforgeeks.org/profile/thanos7"><img src="https://img.shields.io/badge/GeeksforGeeks-1B2632?style=for-the-badge&logo=geeksforgeeks&logoColor=C7F36B" /></a>
   <a href="mailto:noorali99307@gmail.com"><img src="https://img.shields.io/badge/Email-1B2632?style=for-the-badge&logo=gmail&logoColor=C7F36B" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thanos07&style=for-the-badge&color=C7F36B&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=thanos07&amp;style=for-the-badge&amp;color=c7f36b&amp;label=PROFILE%20VIEWS&amp;v=2" alt="Profile views" />
 </p>
 
 ---

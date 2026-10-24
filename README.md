@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-rosy-psi-74.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C7F36B?style=for-the-badge&logo=vercel&logoColor=10140C" /></a>
+  <a href="https://mdnoorportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C7F36B?style=for-the-badge&logo=vercel&logoColor=10140C" /></a>
   <a href="https://leetcode.com/u/mdtahammulnoor/"><img src="https://img.shields.io/badge/LeetCode-1B2632?style=for-the-badge&logo=leetcode&logoColor=C7F36B" /></a>
   <a href="https://www.geeksforgeeks.org/profile/thanos7"><img src="https://img.shields.io/badge/GeeksforGeeks-1B2632?style=for-the-badge&logo=geeksforgeeks&logoColor=C7F36B" /></a>
   <a href="mailto:noorali99307@gmail.com"><img src="https://img.shields.io/badge/Email-1B2632?style=for-the-badge&logo=gmail&logoColor=C7F36B" /></a>
